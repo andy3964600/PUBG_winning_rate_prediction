@@ -1,0 +1,1 @@
+The average of validation_accuracy: 0.06202605254948139
